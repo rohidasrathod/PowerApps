@@ -1,7 +1,7 @@
 # Power Platform Developer Interview Preparation Guide
 
 ## 📌 Overview
-This guide covers all essential topics for preparing for a **Power Platform Developer** interview with **3-4 years of experience**. It includes **technical concepts, scenario-based problem-solving, and behavioral questions**.
+This guide covers all essential topics for preparing for a **Power Platform Developer** interview with **experience**. It includes **technical concepts, scenario-based problem-solving, and behavioral questions**.
 
 ---
 
@@ -159,4 +159,65 @@ This guide covers all essential topics for preparing for a **Power Platform Deve
 - Automate deployments with **Power Platform Build Tools**.
 - Implement **environment strategies (Dev, Test, Prod)**.
 
-Would you like to practice a **full mock interview** next? 😊
+ # Power Platform Developer Interview Questions
+
+## Section 1: Introduction & Experience Discussion
+- **Tell me about yourself and your experience with the Power Platform.**
+- **Describe a challenging project you worked on in Power Apps or Power Automate.**
+- **How do you manage multiple solutions and Dataverse tables in a Power Platform environment?**
+
+## Section 2: Technical Questions
+
+### Power Apps
+- **What are the differences between Power Apps Portals, Canvas Apps, and Model-Driven Apps?**
+- **How do you handle performance issues in a Power Apps application?**
+- **What are common delegation issues, and how do you resolve them?**
+- **How do you handle errors and debugging in Power Apps?**
+- **Explain Patch(), UpdateIf(), and Collect() functions in Power Apps.**
+- **How would you implement offline capabilities in a Power Apps mobile app?**
+
+### Power Automate
+- **What are the different types of Power Automate flows, and when should you use each?**
+- **How do you manage long-running workflows in Power Automate?**
+- **How do you implement exception handling in Power Automate?**
+- **What are concurrency control settings in Power Automate?**
+- **How do you call REST APIs in Power Automate, and how do you authenticate them?**
+
+### Dataverse
+- **Why would you use Dataverse over SharePoint or SQL Server?**
+- **Explain the differences between Choices, Lookups, and Many-to-Many relationships.**
+- **How do you optimize queries in Dataverse to improve performance?**
+- **What are Business Rules in Dataverse, and how do they work?**
+- **How would you handle complex data migrations in Dataverse?**
+
+### Power BI
+- **How do you secure data access in Power BI?**
+- **What is Row-Level Security (RLS), and how do you implement it?**
+- **How do you optimize Power BI reports for large datasets?**
+- **How do you integrate Power BI with Power Apps and Power Automate?**
+- **Explain the difference between DirectQuery, Import Mode, and Composite Models in Power BI.**
+
+## Section 3: Scenario-Based Questions
+- **A Power Automate flow keeps failing during execution. How would you troubleshoot it?**
+- **A Power Apps app is slow when loading data from Dataverse. What would you check first?**
+- **How would you handle a requirement where a user should only see data related to their department?**
+- **You need to migrate a SharePoint-based solution to Dataverse. What factors would you consider?**
+- **A client requests a workflow approval process that requires multi-level approvals with dynamic conditions. How would you design this in Power Automate?**
+- **How would you implement document approval and tracking using Power Platform?**
+
+## Section 4: System Design & Architecture
+- **How do you design a scalable Power Platform architecture for a large enterprise?**
+- **What are the best practices for ALM (Application Lifecycle Management) in Power Platform?**
+- **How do you design an environment strategy (Dev, Test, Prod) for Power Platform applications?**
+- **How do you ensure compliance and security when building Power Platform solutions?**
+- **How do you implement CI/CD (Continuous Integration & Continuous Deployment) for Power Platform solutions?**
+
+## Section 5: Behavioral & HR Questions
+- **Tell me about a time when you had to resolve a conflict within a team.**
+- **Describe a situation where you had to handle multiple projects simultaneously. How did you prioritize tasks?**
+- **Have you ever faced a challenge with a stakeholder who was resistant to adopting Power Platform? How did you handle it?**
+- **What is your approach to continuous learning in Power Platform?**
+- **Why do you want to work for this company, and how do you see yourself growing in this role?**
+
+
+
